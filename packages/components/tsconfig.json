@@ -1,0 +1,4 @@
+{
+  "extends": "../../tsconfig",
+  "include": ["src/**/*", "Box.tsx", "Box.tsx"]
+}
